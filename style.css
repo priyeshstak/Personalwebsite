@@ -1,0 +1,54 @@
+.full-body{
+    background-color: black;
+}
+.first-main-content{
+    
+    display: flex;
+    color: white;
+    margin-top: 75px;
+
+}
+.front-main-image{
+    height: 100%;
+    width: 100%;
+    border-radius: 15px 100px;
+}
+.personal-details-content{
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin-top: 30px;
+}
+.first-both-content{
+    height: 100%;
+}
+.welcome-message{
+    
+}
+.space-under-text{
+    margin-bottom: 20px;
+}
+.paragraph-white-colour{
+    color: white;
+    
+}
+.services-card{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.card{
+ background-color: transparent;
+ color: white;
+}
+.image-height{
+    height: 50%;
+}
+.container-fluid img{
+    height: 70px;
+    width: 100px;
+}
+.nav-link{
+    color: white;
+}
